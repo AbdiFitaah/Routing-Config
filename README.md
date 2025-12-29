@@ -17,3 +17,7 @@ next Hub
 ## EIGRP-Config
   you can also config in your router using EIGRP to communicate two routers
   using EIGRP comand
+
+## OSPF-Config
+  you can also config in your router using OSPF to communicate two routers
+  using EIGRP comand
