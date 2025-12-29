@@ -9,6 +9,11 @@ this type you can use small networks
 
 
 # Dynamic-Config
+## Rip-Config
 you can see the image two is dynamic routing 
 using rip protocal to make advertisment to the
 next Hub
+
+## EIGRP-Config
+  you can also config in your router using EIGRP to communicate two routers
+  using EIGRP comand
